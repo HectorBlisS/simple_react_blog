@@ -1,0 +1,10 @@
+.nav-bar{
+    position: absolute;
+    top: 0;
+    padding: 5px;
+}
+
+.nav-bar img{
+    width: auto;
+    height: 65px;
+}

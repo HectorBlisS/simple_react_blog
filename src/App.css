@@ -1,3 +1,7 @@
+/* Css imports from components */
+@import './components/Home/home.css';
+@import './components/common/nav.css';
+
 .App {
   text-align: center;
 }

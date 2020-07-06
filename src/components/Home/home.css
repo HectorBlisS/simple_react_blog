@@ -1,0 +1,19 @@
+.cover{
+    background: #222 no-repeat center center;
+    background-image: url('../../assets/cover.jpg');
+    background-size: cover ;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+
+.cover h1, p{
+    text-align: center;
+}
+
+.cover h1{
+    font-size: 3rem;
+}
