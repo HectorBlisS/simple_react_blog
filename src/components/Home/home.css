@@ -17,3 +17,51 @@
 .cover h1{
     font-size: 3rem;
 }
+
+.entries-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 auto;
+    margin-top: 50px;
+    max-width: 80%;
+}
+
+.list-item{
+    padding: 0 20px;
+    margin-bottom: 20px;
+}
+
+.list-item h2{
+    font-size: 2rem;
+    color: rgb(62, 62, 62);
+}
+
+.list-item p{
+    font-family: 'Roboto', sans-serif;
+    color:#3A4145;
+    text-align: left;
+    line-height: 1.7em;
+    font-size: .9em;
+
+}
+
+.list-item .author-data{
+    display: flex;
+    align-items: center;
+}
+
+.list-item .author-data img{
+    width: 24px;
+    height: 24px;
+    margin:0 9px 0 0;
+    border-radius: 50%;
+}
+
+.list-item .author-data span{
+    color:#9EABB3;
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+}
