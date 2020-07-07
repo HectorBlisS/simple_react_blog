@@ -1,4 +1,10 @@
-## Simple React Blog
+# Simple React Blog
+
+## Fixter.camp React + Redux Bootcamp
+
+This repo is the final project for the [Desarrollo Frontend con ReactJs + Redux](https://fixter.camp/bootcamp-react-redux) Bootcamp
+
+## Intallation
 
 Install everything running:
 
