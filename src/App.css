@@ -1,6 +1,8 @@
 /* Css imports from components */
 @import './components/Home/home.css';
 @import './components/common/nav.css';
+@import './components/Editor/editor.css';
+@import './components/auth/auth.css';
 
 .App {
   text-align: center;
